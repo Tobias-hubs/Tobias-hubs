@@ -21,7 +21,7 @@
 **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
 **Backend:** Java, Spring Boot, Node.js  
 **Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VS Code, Postman  
+**Tools:** Git, GitHub, VS Code, Postman, Bruno
 **Practices:** Agile methods, DevOps basics, REST APIs
 
 ---
