@@ -12,7 +12,8 @@
 - 🧩 [Escape Room Game](https://github.com/Tobias-hubs/ESC-Hacker-Escape-Rooms-Tobias) – School project using API for a game landingpage using SCSS and JavaScript  
 - ✅ [ToDo App](https://github.com/Tobias-hubs/ToDo) Test it out https://to-do-ten-ashen-49.vercel.app/ – Simple task manager built with vanilla JS  
 - 🕹️ [Dungeon Crawler](https://github.com/Tobias-hubs/dungeon-crawler) – Text-based adventure game in Java
-- And more to come...
+- 🍿[ssr-http-kino-tobias-](https://github.com/Tobias-hubs/ssr-http-kino-tobias-) – Collaborative movie site built with classmates. Refactored the original kino project by migrating to server-side rendering (SSR) with Express and EJS. 🎬 (https://kino-project-nextjs.vercel.app/) – Explore the site in action. 
+
 
 ---
 
