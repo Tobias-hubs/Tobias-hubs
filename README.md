@@ -24,7 +24,7 @@
 
 **Databases:** MySQL, MongoDB  
 
-**Tools:** Git, GitHub, VS Code, Bruno, Postman
+**Tools:** Git, GitHub, VS Code, IntelliJ, Bruno, Postman
 
 **Practices:** Agile methods, DevOps basics, REST APIs
 
