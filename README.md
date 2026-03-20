@@ -8,7 +8,7 @@ Portfolio | https://tobias-larsson.vercel.app/
 ---
 
 ## 🚀 Top Projects
-
+- [Internal document assistant](https://github.com/Tobias-hubs/internal-document-assistant) - Typescript/React & node.js webbapp to ask questions and get answers from openAI with vectorstore, upload PDF, render images from PDF with poppler,
 - 🎮 [Wordle Game](https://github.com/Tobias-hubs/Wordle-game) Test it out here https://wordle-game-git-main-tobias-larssons-projects.vercel.app – A TypeScript-based word game with highscore tracking with MongoDB atlas. (Render is used as free method which means that backend can take time to start)
 - 🧩 [Escape Room Game](https://github.com/Tobias-hubs/ESC-Hacker-Escape-Rooms-Tobias) – School project using API for a game landingpage using SCSS and JavaScript  
 - ✅ [ToDo App](https://github.com/Tobias-hubs/ToDo) Test it out https://to-do-ten-ashen-49.vercel.app/ – Simple task manager built with vanilla JS  
