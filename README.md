@@ -11,7 +11,7 @@
 ## 📫 Let's connect
 Portfolio: https://tobias-larsson.vercel.app/
 
-LinkedIn: https://www.linkedin.com/in/tobias-larsson-52b5531ba/
+LinkedIn: [https://www.linkedin.com/in/tobias-larsson-52b5531ba](https://www.linkedin.com/in/tobias-larsson-52b5531ba)
 
 ---
 
