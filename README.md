@@ -29,6 +29,7 @@ Portfolio | https://tobias-larsson.vercel.app/
 
 ### Frontend
 - React
+- React Native
 - Next.js
 - Vite
 - Tailwind CSS
@@ -50,6 +51,7 @@ Portfolio | https://tobias-larsson.vercel.app/
 - VS Code
 - Postman
 - Bruno
+- Android Studio
 
 ### Practices
 - Agile Methods
