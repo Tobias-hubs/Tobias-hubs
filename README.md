@@ -4,7 +4,11 @@
 💡 Passionate about building clean, scalable web applications using modern technologies  
 🛠️  Previously studied Energy Engineering and work in property management.
 
-Portfolio | https://tobias-larsson.vercel.app/
+## 📫 Let's connect
+Portfolio: https://tobias-larsson.vercel.app/
+
+LinkedIn: https://www.linkedin.com/in/tobias-larsson-52b5531ba/
+
 ---
 
 ## 🚀 Top Projects
@@ -69,13 +73,4 @@ Portfolio | https://tobias-larsson.vercel.app/
 
 ---
 
-## 📫 Let's connect
-
-💼 LinkedIn: https://www.linkedin.com/in/tobias-larsson-52b5531ba/
-
----
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-hubs&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobias-hubs&show_icons=true&theme=radical)
 
