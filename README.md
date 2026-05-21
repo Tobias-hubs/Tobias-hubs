@@ -18,17 +18,44 @@ Portfolio | https://tobias-larsson.vercel.app/
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-**Frontend:** HTML, CSS, JavaScript, TypeScript, React  
+### Languages
+- Java
+- JavaScript
+- TypeScript
+- HTML/CSS
+- Python
 
-**Backend:** Java, Spring Boot, Node.js  
+### Frontend
+- React
+- Next.js
+- Vite
+- Tailwind CSS
 
-**Databases:** MySQL, MongoDB  
+### Backend
+- Spring Boot
+- Node.js
+- REST APIs
 
-**Tools:** Git, GitHub, VS Code, IntelliJ, Bruno, Postman
+### Databases
+- MySQL
+- MongoDB
+- SQL
 
-**Practices:** Agile methods, DevOps basics, REST APIs
+### Tools & Platforms
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
+- Postman
+- Bruno
+
+### Practices
+- Agile Methods
+- DevOps Basics
+- System Architecture
+- API Integration
 
 ---
 
@@ -38,9 +65,6 @@ Portfolio | https://tobias-larsson.vercel.app/
 
 ---
 
-Thanks for visiting my GitHub profile!
-
---- 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-hubs&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobias-hubs&show_icons=true&theme=radical)
