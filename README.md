@@ -57,6 +57,14 @@ Portfolio | https://tobias-larsson.vercel.app/
 - System Architecture
 - API Integration
 
+### Cloud & DevOps
+- Microsoft Azure
+- Azure App Services 
+- Azure Storage / Blob Storage 
+- Azure AI Services / OpenAI integration 
+- Resource provisioning & configuration
+- Cloud integration with backend services
+
 ---
 
 ## 📫 Let's connect
