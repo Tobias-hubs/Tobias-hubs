@@ -2,7 +2,7 @@
 
 🎓 Currently studying **Java & JavaScript Software Development** at Lernia Yrkeshögskola (2024–2026)  
 💡 Passionate about building clean, scalable web applications using modern technologies  
-🛠️  Previously studied Energy Engineering and worked in property management – now I manage bugs instead of buildings😄.
+🛠️  Previously studied Energy Engineering and work in property management.
 
 Portfolio | https://tobias-larsson.vercel.app/
 ---
