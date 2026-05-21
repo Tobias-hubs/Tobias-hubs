@@ -1,8 +1,12 @@
-## Hello, I'm Tobias Larsson 👋
+## 👋 Hi, I'm Tobias Larsson
 
-🎓 Currently studying **Java & JavaScript Software Development** at Lernia Yrkeshögskola (2024–2026)  
-💡 Passionate about building clean, scalable web applications using modern technologies  
-🛠️  Previously studied Energy Engineering and work in property management.
+🎓 Currently studying Java & JavaScript Software Development at Lernia Yrkeshögskola (2024–2026)
+
+💡 Passionate about building fullstack web applications with modern technologies such as Java, Spring Boot, React, TypeScript and cloud services.
+
+🛠️ Experience in developing backend systems, REST APIs and AI-integrated applications using Azure.
+
+📌 Previous background in Energy Engineering and property management, which gave me strong problem-solving and analytical skills.
 
 ## 📫 Let's connect
 Portfolio: https://tobias-larsson.vercel.app/
